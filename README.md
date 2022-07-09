@@ -11,4 +11,4 @@ number of rolls.
 This implementation is with Android studio and Kotlin. 
 
 
-[Screenshot of the app](diceroller.jpg)
+![Screenshot of the app](diceroller.jpg)
